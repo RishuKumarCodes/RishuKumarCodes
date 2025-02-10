@@ -1,4 +1,4 @@
-<a href="http://rishukumarcodes.github.io/Portfolio_2.0">
+<a href="http://rishukumarcodes.github.io/Portfolio_2.0" target="_blank">
   <img alt="Top Langs" width="100%" src="./img/github-bg.png">
 </a>
 
@@ -16,6 +16,11 @@
         <br>
         <img src="./img/EduHaven.png" alt="EduHaven Screenshot">
       </a>
+        <br><br>
+      </a>
+        <a href="#" target="_blank">
+        <img src="./img/link button.png" alt="Click to view hosted site"></img>
+      </a>
     </td>
     <!-- Card: Stay-Sphere -->
     <td>
@@ -24,6 +29,11 @@
              alt="Stay-Sphere">
         <br>
         <img src="./img/Stay-sphere.png" alt="Stay-Sphere Screenshot">
+        <br>
+        <br>
+      </a>
+        <a href="https://stay-sphere-qp39.onrender.com/listings" target="_blank">
+        <img src="./img/link button.png"></img>
       </a>
     </td>
   </tr>
