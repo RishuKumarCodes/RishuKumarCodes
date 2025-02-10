@@ -10,7 +10,7 @@
   My top projects
   </p>
 
-<div style="display: flex; flex-wrap: wrap; gap:20px; justify-content: center">
+<div style="border:1px solid #525252; border-radius: 25px; padding: 20px 10px; width:100%; display:flex; justify-content:center; flex-wrap:wrap;box-sizing: border-box">
   <!-- Card 2 -->
   <div style="flex: 1;min-width:300px; background-color: #fbfcfa15; border-radius:25px">
     <a href="https://github.com/amandollar/EduHaven">
