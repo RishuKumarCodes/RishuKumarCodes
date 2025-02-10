@@ -31,13 +31,12 @@
 
 <br><br>
 
-## Languages and Tools
+### Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,mongo,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,vscode,ai,ps,pr,figma,linux&perline=15" 
      alt="Skills">
 
-<br><br>
-___
+<br>
 
 <p align="center">
   <img alt="Rishu's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=rishukumarcodes&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=b8b8b8&title_color=FFFFFF&icon_color=25D366">
