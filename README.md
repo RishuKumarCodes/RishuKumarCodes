@@ -4,7 +4,7 @@
 
 <br><br>
 
-## My top projects
+## Projects
 
 <table align="center">
   <tr>
