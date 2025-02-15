@@ -16,10 +16,10 @@
         <br>
         <img src="./img/EduHaven.png" alt="EduHaven Screenshot">
       </a>
-        <br><br>
+      <br>
       </a>
         <a href="#" target="_blank">
-        <img src="./img/link button.png" alt="Click to view hosted site"></img>
+        <img src="./img/hostedSiteBtn.svg" alt="Click to view hosted site" width="180">
       </a>
     </td>
     <!-- Card: Stay-Sphere -->
@@ -30,10 +30,9 @@
         <br>
         <img src="./img/Stay-sphere.png" alt="Stay-Sphere Screenshot">
         <br>
-        <br>
       </a>
         <a href="https://stay-sphere-qp39.onrender.com/listings" target="_blank">
-        <img src="./img/link button.png"></img>
+                <img src="./img/hostedSiteBtn.svg" alt="Click to view hosted site" width="180">
       </a>
     </td>
   </tr>
