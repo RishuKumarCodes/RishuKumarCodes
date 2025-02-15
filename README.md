@@ -40,7 +40,7 @@
 
 <br><br>
 
-### Languages and Tools
+### Tools & Tech
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,mongo,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,vscode,ai,ps,pr,figma,linux&perline=15" 
      alt="Skills">
