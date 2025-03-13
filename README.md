@@ -1,4 +1,4 @@
-<a href="http://rishukumarcodes.github.io/Portfolio_2.0" target="_blank">
+<a href="https://rishukumarcodes.netlify.app/" target="_blank">
   <img alt="Top Langs" width="100%" src="./img/github-bg.png">
 </a>
 
