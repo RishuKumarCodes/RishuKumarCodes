@@ -18,7 +18,36 @@
       </a>
       <br>
       </a>
-        <a href="#" target="_blank">
+        <a href="https://eduheaven.vercel.app/" target="_blank">
+        <img src="./img/hostedSiteBtn.svg" alt="Click to view hosted site" width="180">
+      </a>
+    </td>
+    <!-- Card: Realtime Chat app -->
+    <td>
+      <a href="https://github.com/RishuKumarCodes/What-s-up-Chat-app-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishuKumarCodes&repo=What-s-up-Chat-app-&bg_color=00000000&hide_border=true&theme=radical&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
+             alt="Stay-Sphere">
+        <br>
+        <img src="./img/Whats_up_chat.png" alt="Stay-Sphere Screenshot">
+        <br>
+      </a>
+        <a href="https://what-s-up-chat-app.vercel.app/" target="_blank">
+          <img src="./img/hostedSiteBtn.svg" alt="Click to view hosted site" width="180">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Card: Focus Dock -->
+    <td>
+      <a href="https://github.com/RishuKumarCodes/Standby-clock">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishukumarcodes&repo=Standby-clock&bg_color=00000000&hide_border=true&theme=radical&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff" 
+             alt="eduHaven">
+        <br>
+        <img src="./img/Focus_dock.png" alt="EduHaven Screenshot">
+      </a>
+      <br>
+      </a>
+        <a href="https://play.google.com/store/apps/details?id=com.rishukumarcodes.Standbyclock" target="_blank">
         <img src="./img/hostedSiteBtn.svg" alt="Click to view hosted site" width="180">
       </a>
     </td>
@@ -42,7 +71,7 @@
 
 ### Tools & Tech
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mysql,mongo,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,vscode,ai,ps,pr,figma,linux&perline=15" 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,mongo,postgres,prisma,nodejs,react,nextjs,express,tailwind,bootstrap,git,github,postman,powershell,bash,c,cpp,java,vscode,docker,ai,ps,pr,figma,linux,ubuntu&perline=15" 
      alt="Skills">
 
 <br>
